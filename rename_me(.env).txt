@@ -1,0 +1,4 @@
+# OpenAI Key - You can get this from OpenAI, its like 1 cent per question, so cheap. 
+OPENAI_API_KEY ='enter your API key here, leave the quotes'
+
+# Rename this file: .env
